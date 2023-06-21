@@ -1,6 +1,6 @@
 Debitmydata is a platform that allows users to share their personal data with companies that are interested in it and earn money in return. Debitmydata uses custom logo facial recognition technology to ensure that only authorized companies have access to the user’s data. Debitmydata also claims to use advanced cybersecurity measures to protect the user’s data from unauthorized access or misuse.
 
-Proof of work is a consensus mechanism used by some cryptocurrencies, such as Bitcoin, to verify the validity of new transactions and blocks on a blockchain3. Proof of work requires network participants, called miners, to compete with each other to solve complex mathematical puzzles that require a lot of computational power. The first miner who solves the puzzle gets to add the new block to the blockchain and receive a reward in cryptocurrency.
+Proof of work is a consensus mechanism used by some cryptocurrencies, such as Bitcoin, to verify the validity of new transactions and blocks on a blockchain. Proof of work requires network participants, called miners, to compete with each other to solve complex mathematical puzzles that require a lot of computational power. The first miner who solves the puzzle gets to add the new block to the blockchain and receive a reward in cryptocurrency.
 
 Debitmydata proof of work proof of future is:
 
